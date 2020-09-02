@@ -1,0 +1,10 @@
+{
+  "name": "sunrinvoca_server",
+  "version": "1.0.0",
+  "description": "Sunrin Internet Highschool English Voca Server",
+  "main": "./src/app.ts",
+  "repository": "https://github.com/gtg7784/sunrinvoca_server",
+  "author": "gtg7784",
+  "license": "GPL-3.0",
+  "private": false
+}
